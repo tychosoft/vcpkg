@@ -1,4 +1,5 @@
 vcpkg_from_gitlab(
+    GITLAB_URL https://gitlab.com
     OUT_SOURCE_PATH SOURCE_PATH
     REPO tychosoft/webforcpp
     REF v0.1.2
