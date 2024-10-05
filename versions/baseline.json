@@ -1,0 +1,12 @@
+{
+  "default": {
+    "moderncli": {
+      "baseline": "0.9.3",
+      "port-version": 0
+    },
+    "webforcpp": {
+      "baseline": "0.1.2",
+      "port-version": 0
+    }
+  }
+}

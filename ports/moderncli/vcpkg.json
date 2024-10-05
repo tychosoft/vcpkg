@@ -1,0 +1,11 @@
+{
+  "name": "moderncli",
+  "version": "0.9.3",
+  "description": "Modern C++ portable header library.",
+  "dependencies": [
+    "fmt",
+    "openssl",
+    "pkgconf",
+    "vcpkg-pkgconfig-get-modules"
+  ]
+}

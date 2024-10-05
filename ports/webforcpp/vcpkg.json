@@ -1,0 +1,10 @@
+{
+  "name": "webforcpp",
+  "version": "0.1.2",
+  "description": "Modern C++ library for web services.",
+  "dependencies": [
+    "openssl",
+    "pkgconf",
+    "vcpkg-pkgconfig-get-modules"
+  ]
+}
