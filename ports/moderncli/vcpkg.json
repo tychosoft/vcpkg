@@ -1,6 +1,6 @@
 {
   "name": "moderncli",
-  "version": "0.9.4",
+  "version": "0.9.7",
   "description": "Modern C++ portable header library.",
   "dependencies": [
     "fmt",
