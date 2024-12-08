@@ -2,8 +2,8 @@ vcpkg_from_gitlab(
     OUT_SOURCE_PATH SOURCE_PATH
     GITLAB_URL https://gitlab.com
     REPO tychosoft/moderncli
-    REF v0.9.4
-    SHA512 1182249cbaf7f7bf8b7d6e268a5ba1a5cd13159c3a36240d71cd3fdc6ce204b36484da480e9f3049a177b9725b10574f8278b8da0f3ead3d081e588a2a6c0c2b
+    REF v0.9.7
+    SHA512 55455d59b5de9a51f04d17c0ca3b66ff5f8abf1a5da05f23be098b29ba4851ab2b2392d17b4af5e90e6c680bf65a45c27e16c3670dcbcde0736d2b406a988e31
     HEAD_REF main
 )
 
