@@ -1,10 +1,12 @@
 {
   "name": "moderncli",
   "version": "0.9.7",
-  "description": "Modern C++ portable header library.",
+  "description": "Modern C++ 17 portable header library.",
+  "homepage": "https://gitlab.com/tychosoft/moderncli",
   "dependencies": [
     "fmt",
     "openssl",
+    "zlib",
     "pkgconf",
     "vcpkg-pkgconfig-get-modules"
   ]
