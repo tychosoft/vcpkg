@@ -4,8 +4,8 @@
   "description": "Modern C++ 17 library for web services.",
   "dependencies": [
     "openssl",
-    "zlib",
     "pkgconf",
-    "vcpkg-pkgconfig-get-modules"
+    "vcpkg-pkgconfig-get-modules",
+    "zlib"
   ]
 }
