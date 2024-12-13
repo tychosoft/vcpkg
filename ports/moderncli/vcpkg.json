@@ -1,6 +1,6 @@
 {
   "name": "moderncli",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "description": "Modern C++ 17 portable header library",
   "homepage": "https://gitlab.com/tychosoft/moderncli",
   "dependencies": [
